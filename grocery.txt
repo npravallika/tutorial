@@ -1,6 +1,8 @@
 vegetables
 chocolates
-soy milk
+
+Almond milk
+
 bread
 cookies
 jam
