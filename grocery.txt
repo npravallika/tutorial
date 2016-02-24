@@ -1,6 +1,6 @@
 vegetables
 chocolates
-milk
+Almond milk
 bread
 cookies
 jam
